@@ -1,6 +1,6 @@
 {
   "name": "nuxt-statamic-image",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A statamic image component plugin for nuxt",
   "private": false,
   "main": "module.js",
