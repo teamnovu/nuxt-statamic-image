@@ -6,6 +6,7 @@
   "main": "module.js",
   "license": "MIT",
   "dependencies": {
+    "path": "^0.12.7",
     "vue-statamic-image": "^1.0.12"
   }
 }
