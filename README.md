@@ -11,7 +11,7 @@ npm i vue-statamic-image
 ```javascript
 {
   modules: [
-    ['nuxt-statamic-image', { statamicBaseUrl: 'http://statamic-app.test }],
+    ['nuxt-statamic-image', { statamicBaseUrl: 'http://statamic-app.test' }],
   ],
 }
 ```
