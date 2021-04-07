@@ -1,12 +1,12 @@
 {
   "name": "nuxt-statamic-image",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A statamic image component plugin for nuxt",
   "private": false,
   "main": "module.js",
   "license": "MIT",
   "dependencies": {
     "path": "^0.12.7",
-    "vue-statamic-image": "^1.0.14"
+    "vue-statamic-image": "^1.0.15"
   }
 }
